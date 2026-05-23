@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "4fun-7rGZ.aternos.me:62616",
+    "ip": "4fun-7rGZ.aternos.me",
     "port": 62616,
     "version": 1.21,
     "try-creative": false
